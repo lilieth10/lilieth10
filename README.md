@@ -1,5 +1,10 @@
 # 💫 About Me:
-<br>💫 About Me:<br>Hola! soy lilieth chacon ! actualmente soy programadora full stack orientada la back-kend.<br>adquiri mis conocimientos en el bootcam soy henry en el cual conoci personas agradables que me ayudaron a lo largo del camino y con los que finalice y tuve la experiencia de mi primer proyecto con metodologia scrum y tecnologias nuevas de las cuales aprendi y deseo seguir aprendiendo dia con dia. <br><br>Estoy interesada en el desarrollo de software y la tecnología.<br><br>
+<br>💫 About Me:<br>Hola! soy lilieth chacon ! Como apasionado FullStack Developer, he dedicado mi carrera
+a la creación de soluciones innovadoras y eficientes. Mi
+enfoque proactivo y habilidades sólidas en análisis de datos,
+tanto en Front-end como en Back-end, me han permitido
+destacar en entornos colaborativos. La resolución de problemas
+y mi compromiso con la calidad.<br><br>
 
 
 ## 🌐 Socials:
