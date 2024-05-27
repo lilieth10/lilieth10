@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>💫 About Me:<br>Hello! I’m Lilieth Chacón, a passionate FullStack Developer who views each project as a new challenge in my continuous learning journey. I am constantly evolving, committed to giving my best in every project to deliver innovative and efficient solutions. My proactive approach and skills allow me to excel in collaborative environments, where problem-solving and quality are my main goals.<br><br>
+<br>Hello! I’m Lilieth Chacón, a passionate FullStack Developer who views each project as a new challenge in my continuous learning journey. I am constantly evolving, committed to giving my best in every project to deliver innovative and efficient solutions. My proactive approach and skills allow me to excel in collaborative environments, where problem-solving and quality are my main goals.<br><br>
 
 
 ## 🌐 Socials:
